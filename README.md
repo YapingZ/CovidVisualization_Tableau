@@ -13,3 +13,4 @@ You can view the dashboard by click: https://public.tableau.com/app/profile/yapi
 
 
 ![image]([https://github.com/YapingZ/CovidVisualization_Tableau/blob/main/Covid19_Tableau.jpeg)
+![image](​ ​https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png​​)
