@@ -9,3 +9,5 @@ This project is to collect some usful data about covid-19 for the visualization 
 
 We saved these four parts of data into 4 excel files, and imported them into Tableau. Then we analysised these data in Tabluea, and visualized them into one dashboard.
 
+
+![image]([https://github.com/YapingZ/CovidVisualization_Tableau/blob/main/Covid19_Tableau.jpeg)
